@@ -1,0 +1,163 @@
+ConaCLIP: Exploring Distillation of Fully-Connected Knowledge Interaction Graph for Lightweight Text-Image Retrieval	2023-05-28 07:16:44+00:00
+Retrieving Texts based on Abstract Descriptions	2023-05-21 17:14:31+00:00
+Influence of various text embeddings on clustering performance in NLP	2023-05-04 20:53:19+00:00
+Making Changes in Webpages Discoverable: A Change-Text Search Interface for Web Archives	2023-04-30 18:16:06+00:00
+Towards Robust Text-Prompted Semantic Criterion for In-the-Wild Video Quality Assessment	2023-04-28 08:06:05+00:00
+Assessing Text Mining and Technical Analyses on Forecasting Financial Time Series	2023-04-27 21:52:36+00:00
+WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models	2023-03-29 10:19:26+00:00
+Scalable handwritten text recognition system for lexicographic sources of under-resourced languages and alphabets	2023-03-28 19:06:27+00:00
+Computationally Efficient Labeling of Cancer Related Forum Posts by Non-Clinical Text Information Retrieval	2023-03-24 13:07:03+00:00
+Efficient Image-Text Retrieval via Keyword-Guided Pre-Screening	2023-03-14 09:36:42+00:00
+LexLIP: Lexicon-Bottlenecked Language-Image Pre-Training for Large-Scale Image-Text Retrieval	2023-02-06 16:24:41+00:00
+MTTN: Multi-Pair Text to Text Narratives for Prompt Generation	2023-01-21 06:55:44+00:00
+Cursive Caption Text Detection in Videos	2023-01-09 04:30:48+00:00
+The Infinite Index: Information Retrieval on Generative Text-To-Image Models	2022-12-14 19:50:35+00:00
+Text Mining-Based Patent Analysis for Automated Rule Checking in AEC	2022-12-12 13:48:38+00:00
+Dense Text Retrieval based on Pretrained Language Models: A Survey	2022-11-27 16:18:19+00:00
+CLIP-ReID: Exploiting Vision-Language Model for Image Re-Identification without Concrete Text Labels	2022-11-25 09:41:57+00:00
+A Comprehensive Analysis of Acknowledgement Texts in Web of Science: a case study on four scientific domains	2022-10-18 09:50:47+00:00
+MuRAG: Multimodal Retrieval-Augmented Generator for Open Question Answering over Images and Text	2022-10-06 13:58:03+00:00
+Text Difficulty Study: Do machines behave the same as humans regarding text difficulty?	2022-08-14 06:12:08+00:00
+Information Extraction from Scanned Invoice Images using Text Analysis and Layout Features	2022-08-08 09:46:33+00:00
+A Sketch Is Worth a Thousand Words: Image Retrieval with Text and Sketch	2022-08-05 18:43:37+00:00
+SsciBERT: A Pre-trained Language Model for Social Science Texts	2022-06-09 13:49:04+00:00
+Contrastive Graph Multimodal Model for Text Classification in Videos	2022-06-06 04:06:21+00:00
+Deep learning based Chinese text sentiment mining and stock market correlation research	2022-05-10 08:35:33+00:00
+Research on the correlation between text emotion mining and stock market based on deep learning	2022-05-09 12:51:16+00:00
+Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval	2022-04-29 07:29:06+00:00
+MeSHup: A Corpus for Full Text Biomedical Document Indexing	2022-04-28 16:04:20+00:00
+Tailor: A Prompt-Based Approach to Attribute-Based Controlled Text Generation	2022-04-28 09:09:45+00:00
+KenMeSH: Knowledge-enhanced End-to-end Biomedical Text Labelling	2022-03-14 03:09:56+00:00
+Towards Making a Trojan-horse Attack on Text-to-Image Retrieval	2022-02-08 13:46:42+00:00
+Computational analyses of the topics, sentiments, literariness, creativity and beauty of texts in a large Corpus of English Literature	2022-01-12 08:16:52+00:00
+ARCLIN: Automated API Mention Resolution for Unformatted Texts	2022-01-05 05:15:04+00:00
+Text Mining Through Label Induction Grouping Algorithm Based Method	2021-12-15 21:20:41+00:00
+Chemical Identification and Indexing in PubMed Articles via BERT and Text-to-Text Approaches	2021-11-30 18:21:06+00:00
+Study of keyword extraction techniques for Electric Double Layer Capacitor domain using text similarity indexes: An experimental analysis	2021-11-13 08:25:14+00:00
+Entropy optimized semi-supervised decomposed vector-quantized variational autoencoder model based on transfer learning for multiclass text classification and generation	2021-11-10 07:07:54+00:00
+Computing Matching Statistics on Repetitive Texts	2021-10-31 01:42:27+00:00
+Adversarial Retriever-Ranker for dense text retrieval	2021-10-07 16:41:15+00:00
+Fine-Tuning Pretrained Language Models With Label Attention for Biomedical Text Classification	2021-08-26 14:23:06+00:00
+S&P 500 Stock Price Prediction Using Technical, Fundamental and Text Data	2021-08-24 16:18:52+00:00
+Relevance ranking for proximity full-text search based on additional indexes with multi-component keys	2021-08-01 09:39:55+00:00
+Parallel and High-Fidelity Text-to-Lip Generation	2021-07-14 16:44:04+00:00
+STEP-EZ: Syntax Tree guided semantic ExPlanation for Explainable Zero-shot modeling of clinical depression symptoms from text	2021-06-21 08:57:22+00:00
+A Deep Local and Global Scene-Graph Matching for Image-Text Retrieval	2021-06-04 10:33:14+00:00
+Fall of Giants: How popular text-based MLaaS fall against a simple evasion attack	2021-04-13 08:01:19+00:00
+A Probabilistic Framework for Lexicon-based Keyword Spotting in Handwritten Text Images	2021-04-09 18:33:32+00:00
+Expressive Text-to-Speech using Style Tag	2021-04-01 12:40:07+00:00
+LightningDOT: Pre-training Visual-Semantic Embeddings for Real-Time Image-Text Retrieval	2021-03-16 00:35:28+00:00
+Fast Clustering of Short Text Streams Using Efficient Cluster Indexing and Dynamic Similarity Thresholds	2021-01-21 13:22:47+00:00
+The Expando-Mono-Duo Design Pattern for Text Ranking with Pretrained Sequence-to-Sequence Models	2021-01-14 15:29:54+00:00
+VisualSparta: An Embarrassingly Simple Approach to Large-scale Text-to-Image Search with Weighted Bag-of-words	2021-01-01 16:29:17+00:00
+Accelerating Text Mining Using Domain-Specific Stop Word Lists	2020-11-18 17:42:32+00:00
+The Person Index Challenge: Extraction of Persons from Messy, Short Texts	2020-11-16 14:36:42+00:00
+LXPER Index 2.0: Improving Text Readability Assessment Model for L2 English Students in Korea	2020-10-26 07:03:14+00:00
+Pretrained Transformers for Text Ranking: BERT and Beyond	2020-10-13 15:20:32+00:00
+Uncertainty over Uncertainty: Investigating the Assumptions, Annotations, and Text Measurements of Economic Policy Uncertainty	2020-10-09 17:50:29+00:00
+High-Performance Mining of COVID-19 Open Research Datasets for Text Classification and Insights in Cloud Computing Environments	2020-09-16 00:25:51+00:00
+Proximity full-text searches of frequently occurring words with a response time guarantee	2020-09-06 09:14:59+00:00
+The VISIONE Video Search System: Exploiting Off-the-Shelf Text Search Engines for Large-Scale Video Retrieval	2020-08-06 16:32:17+00:00
+LXPER Index: a curriculum-specific text readability assessment model for EFL students in Korea	2020-08-01 11:55:03+00:00
+About a structure of easily updatable full-text indexes	2020-07-18 09:30:52+00:00
+Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval	2020-07-01 23:15:56+00:00
+Learning Sparse Prototypes for Text Generation	2020-06-29 19:41:26+00:00
+Fast Preprocessing for Optimal Orthogonal Range Reporting and Range Successor with Applications to Text Indexing	2020-06-22 02:54:20+00:00
+Transformer Based Language Models for Similar Text Retrieval and Ranking	2020-05-10 06:12:53+00:00
+Transformer Reasoning Network for Image-Text Matching and Retrieval	2020-04-20 09:09:01+00:00
+The Effect of the Multi-Layer Text Summarization Model on the Efficiency and Relevancy of the Vector Space-based Information Retrieval	2020-04-18 00:18:14+00:00
+Unsupervised Cross-Modal Audio Representation Learning from Unstructured Multilingual Text	2020-03-27 07:37:15+00:00
+TEDL: A Text Encryption Method Based on Deep Learning	2020-03-09 11:04:36+00:00
+Description Based Text Classification with Reinforcement Learning	2020-02-08 02:14:28+00:00
+Experiments with Different Indexing Techniques for Text Retrieval tasks on Gujarati Language using Bag of Words Approach	2020-02-05 13:58:29+00:00
+Identifying Historical Travelogues in Large Text Corpora Using Machine Learning	2020-01-06 17:20:10+00:00
+Python vs. R: A Text Mining Approach for analyzing the Research Trends in Scopus Database	2019-11-10 13:53:20+00:00
+Constructing Artificial Data for Fine-tuning for Low-Resource Biomedical Text Tagging with Applications in PICO Annotation	2019-10-21 10:19:53+00:00
+Similarity Driven Approximation for Text Analytics	2019-10-16 03:13:23+00:00
+E2FM: an encrypted and compressed full-text index for collections of genomic sequences	2019-10-10 15:19:19+00:00
+Efficient Online String Matching Based on Characters Distance Text Sampling	2019-08-16 11:11:06+00:00
+Fast, Small, and Simple Document Listing on Repetitive Text Collections	2019-02-20 15:34:06+00:00
+CREATE: Cohort Retrieval Enhanced by Analysis of Text from Electronic Health Records using OMOP Common Data Model	2019-01-22 20:05:11+00:00
+Lower bounds for text indexing with mismatches and differences	2018-12-21 13:52:54+00:00
+Proximity Full-Text Search by Means of Additional Indexes with Multi-component Keys: In Pursuit of Optimal Performance	2018-12-18 20:57:15+00:00
+Adversarial Learning of Semantic Relevance in Text to Image Synthesis	2018-12-12 18:44:23+00:00
+Locally Consistent Parsing for Text Indexing in Small Space	2018-12-02 09:11:20+00:00
+Proximity Full-Text Search with a Response Time Guarantee by Means of Additional Indexes	2018-11-18 17:23:41+00:00
+A Fast Text Similarity Measure for Large Document Collections using Multi-reference Cosine and Genetic Algorithm	2018-10-07 08:17:07+00:00
+Multi-reference Cosine: A New Approach to Text Similarity Measurement in Large Collections	2018-10-07 08:04:18+00:00
+Sifaka: Text Mining Above a Search API	2018-10-05 23:24:19+00:00
+C-DLSI: An Extended LSI Tailored for Federated Text Retrieval	2018-10-05 09:14:50+00:00
+Text Similarity in Vector Space Models: A Comparative Study	2018-09-24 10:54:52+00:00
+Fully-Functional Suffix Trees and Optimal Text Searching in BWT-runs Bounded Space	2018-09-08 12:15:58+00:00
+Attention-based Neural Text Segmentation	2018-08-29 17:29:12+00:00
+Long-term stock index forecasting based on text mining of regulatory disclosures	2018-06-26 09:22:58+00:00
+Content-Based Quality Estimation for Automatic Subject Indexing of Short Texts under Precision and Recall Constraints	2018-06-07 15:58:59+00:00
+Scalable Semantic Querying of Text	2018-05-03 01:57:31+00:00
+Computer-Assisted Text Analysis for Social Science: Topic Models and Beyond	2018-03-29 13:11:32+00:00
+Universal Compressed Text Indexing	2018-03-26 11:39:19+00:00
+Using Additional Indexes for Fast Full-Text Search of Phrases That Contain Frequently Used Words	2018-01-27 12:02:03+00:00
+Using Deep Learning for Title-Based Semantic Subject Indexing to Reach Competitive Performance to Full-Text	2018-01-20 19:26:20+00:00
+Text Extraction and Retrieval from Smartphone Screenshots: Building a Repository for Life in Media	2018-01-04 11:51:26+00:00
+Text Indexing and Searching in Sublinear Time	2017-12-20 11:51:51+00:00
+A compressed dynamic self-index for highly repetitive text collections	2017-11-08 07:43:35+00:00
+Deep Scene Text Detection with Connected Component Proposals	2017-08-17 04:44:03+00:00
+Date-Field Retrieval in Scene Image and Video Frames using Text Enhancement and Shape Coding	2017-07-21 10:45:00+00:00
+Determining sentiment in citation text and analyzing its impact on the proposed ranking index	2017-07-05 15:03:30+00:00
+Complexity Metric for Code-Mixed Social Media Text	2017-07-04 23:29:31+00:00
+Optimal-Time Text Indexing in BWT-runs Bounded Space	2017-05-29 20:24:07+00:00
+TAC-GAN - Text Conditioned Auxiliary Classifier Generative Adversarial Network	2017-03-19 10:07:58+00:00
+A Scalable Document-based Architecture for Text Analysis	2016-12-19 14:24:23+00:00
+Generalized Entropies and the Similarity of Texts	2016-11-11 06:36:53+00:00
+Term-Class-Max-Support (TCMS): A Simple Text Document Categorization Approach Using Term-Class Relevance Measure	2016-10-16 03:40:13+00:00
+Engineering a Distributed Full-Text Index	2016-10-11 13:46:54+00:00
+Neural Tree Indexers for Text Understanding	2016-07-15 12:59:01+00:00
+Large scale biomedical texts classification: a kNN and an ESA-based approaches	2016-06-09 14:32:50+00:00
+Comparison of full-text versus metadata searching in an institutional repository: Case study of the UNT Scholarly Works	2015-12-22 18:33:44+00:00
+A Novel Approach to Compress Centralized Text Data using Indexed Dictionary	2015-12-22 16:45:12+00:00
+Full-text and Keyword Indexes for String Searching	2015-08-26 19:11:09+00:00
+Probabilistic, statistical and algorithmic aspects of the similarity of texts and application to Gospels comparison	2015-08-15 22:12:22+00:00
+Fully-Online Suffix Tree and Directed Acyclic Word Graph Construction for Multiple Texts	2015-07-28 02:15:02+00:00
+Using network science and text analytics to produce surveys in a scientific topic	2015-06-18 14:20:54+00:00
+Measuring Financial Sentiment to Predict Financial Instability: A New Approach based on Text Analysis	2015-06-14 16:37:46+00:00
+Hand Posture's Effect on Touch Screen Text Input Behaviors: A Touch Area Based Study	2015-04-08 21:39:56+00:00
+Text Mining System for Non-Expert Miners	2014-06-07 03:04:02+00:00
+Two simple full-text indexes based on the suffix array	2014-05-22 21:55:00+00:00
+Big Data, Socio-Psychological Theory, Algorithmic Text Analysis and Predicting the Michigan Consumer Sentiment Index	2014-05-22 10:01:59+00:00
+Improved ESP-index: a practical self-index for highly repetitive texts	2014-04-19 17:08:29+00:00
+Text Based Approach For Indexing And Retrieval Of Image And Video: A Review	2014-04-05 19:58:38+00:00
+Time Series Analysis on Stock Market for Text Mining Correlation of Economy News	2014-03-08 19:50:15+00:00
+Suffix Trays and Suffix Trists: Structures for Faster Text Indexing	2013-11-07 17:44:02+00:00
+Arabic Text Recognition in Video Sequences	2013-08-14 20:15:44+00:00
+Extracting Information-rich Part of Texts using Text Denoising	2013-07-30 17:36:53+00:00
+Extracting Connected Concepts from Biomedical Texts using Fog Index	2013-07-30 17:27:29+00:00
+Video Text Localization using Wavelet and Shearlet Transforms	2013-07-18 15:58:19+00:00
+Full-text Support for Publish/Subscribe Ontology Systems	2013-07-08 10:12:01+00:00
+Orthogonal Range Searching for Text Indexing	2013-06-03 22:37:43+00:00
+AViTExt: Automatic Video Text Extraction, A new Approach for video content indexing Application	2013-01-10 16:29:11+00:00
+Content-Based Video Browsing by Text Region Localization and Classification	2013-01-10 16:22:40+00:00
+A Text Steganography Method Using Pangram and Image Mediums	2012-12-12 18:10:53+00:00
+A Survey on Information Retrieval, Text Categorization, and Web Crawling	2012-12-10 13:57:59+00:00
+Detecting multiword phrases in mathematical text corpora	2012-10-02 17:41:58+00:00
+Enhanced Techniques for PDF Image Segmentation and Text Extraction	2012-10-01 10:38:08+00:00
+Broccoli: Semantic Full-Text Search at your Fingertips	2012-07-11 12:29:35+00:00
+Arabic CALL system based on pedagogically indexed text	2012-07-10 14:34:24+00:00
+Developing a model for a text database indexed pedagogically for teaching the Arabic language	2012-06-10 09:27:51+00:00
+Investigating Keyphrase Indexing with Text Denoising	2012-04-10 17:57:42+00:00
+Partial Data Compression and Text Indexing via Optimal Suffix Multi-Selection	2011-10-15 05:16:18+00:00
+Handwritten Text Image Authentication using Back Propagation	2011-10-07 11:40:18+00:00
+Automatic transcription of 17th century English text in Contemporary English with NooJ: Method and Evaluation	2011-09-22 18:37:17+00:00
+Improved space-time tradeoffs for approximate full-text indexing with one edit error	2011-03-10 23:25:45+00:00
+Succincter Text Indexing with Wildcards	2011-01-27 20:09:34+00:00
+An Efficient Technique for Text Compression	2010-09-25 06:49:28+00:00
+Context and Keyword Extraction in Plain Text Using a Graph Representation	2009-12-08 07:33:27+00:00
+Fast In-Memory XPath Search over Compressed Text and Tree Indexes	2009-07-13 03:19:23+00:00
+Compressed Text Indexes:From Theory to Practice!	2007-12-20 10:42:54+00:00
+On the role of autocorrelations in texts	2007-10-01 08:23:24+00:00
+Geocoding multilingual texts: Recognition, disambiguation and visualisation	2006-09-12 12:57:38+00:00
+Automatic annotation of multilingual text collections with a conceptual thesaurus	2006-09-12 07:24:01+00:00
+Transitive Text Mining for Information Extraction and Hypothesis Generation	2005-09-07 12:16:22+00:00
+A Method for Open-Vocabulary Speech-Driven Text Retrieval	2002-06-09 10:07:36+00:00
+The Alex Catalogue, A Collection of Digital Texts with Automatic Methods for Acquisition and Cataloging, User-Defined Typography, Cross-searching of Indexed Content, and a Sense of Community	1999-02-02 14:14:42+00:00
+Indexing with WordNet synsets can improve Text Retrieval	1998-08-05 14:13:08+00:00
+Noun-Phrase Analysis in Unrestricted Text for Information Retrieval	1996-05-13 18:26:39+00:00
+Extracting Noun Phrases from Large-Scale Texts: A Hybrid Approach and Its Automatic Evaluation	1994-06-01 02:25:41+00:00

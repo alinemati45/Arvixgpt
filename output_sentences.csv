@@ -1,0 +1,210 @@
+Sentences
+Title:	
+Befriending ChatGPT and other superchatbots:
+"An AI-integrated take-home assessment preserving integritySummary:With the launch of ChatGPT, serious concerns have reasonably been raised ofits ill-effect on the integrity of remote take-home exams."
+"By way of mitigatingthe concern, in this study, a rather straightforward Artificial-Intelligence(AI)-integrated take-home assessment technique is proposed, and the outcome ofits practice is discussed."
+"Despite involving AI, in the form of ChatGPT, theassessment adheres to the convention of posing questions invoking criticalthinking and problem solving skills."
+"However, AI is characteristicallyintegrated in this assessment by instructing the learners to employ ChatGPT asone of the primary sources."
+"The learners are directed to report the use ofChatGPT by including both the prompts and its responses, before expressingtheir thoughts on AI-generated answers and their own concluding statement."
+"These three characteristic components of the present techniques -- the handlingof ChatGPT through the prompts, comments on the AI-responses and the concludingthoughts -- are evaluated to gauge the learning.  "
+"The proposed assessment was assigned as a take-home group activity for abatch of seventy eight students, divided into thirteen groups."
+"Despiteaddressing the same questions, there was no significant overlap in the answers."
+"Moreover, a wide range of approaches were adopted by the groups in handlingChatGPT, which in-turn rendered different responses, ultimately drawingdistinct answers."
+"Besides preventing the undesired use of ChatGPT by explicitlyintegrating it, the proposed assessment seemingly helped the learners questionthe accuracy of its responses."
+This self-realised skepticism can be expected tocurtail blatant malpractices involving ChatGPT in the long run.
+PDF URL: 	
+http://arxiv.org/pdf/2306.02096v1Authors: 	[arxiv.
+Result.
+Author('P
+G Kubendran Amos')]################################################################################################Published: 	
+2023-06-03
+12:12:46
++
+00:00Updated: 	2023-06-03
+12:12:46+
+00:00Entry ID: 	http://arxiv.org/abs/2306.02096v1Short ID: 	2306.02096v1###############################PDF
+Content Will Start From Here:###############################Befriending ChatGPT and other superchatbots:
+"An AI-integratedtake-home assessment preserving integrityP G Kubendran Amosa,b,∗aTheoretical Metallurgy Group, Department of Metallurgical and Materials Engineering,National Institute of Technology Tiruchirappalli,"
+"Tamil Nadu, IndiabInstitute of Applied Materials (IAM-MMS), Karlsruhe Institute of Technology"
+"(KIT),Strasse am Forum 7, 76131 Karlsruhe, GermanyAbstractWith the launch of ChatGPT"
+", serious concerns have reasonably been raised of its ill-effecton the integrity of remote take-home exams."
+"By way of mitigating the concern, in this study,a rather straightforward Artificial-Intelligence (AI)-integrated take-home assessment techniqueis proposed, and the outcome of its practice is discussed."
+"Despite involving AI, in the form ofChatGPT, the assessment adheres to the convention of posing questions invoking critical think-ing and problem solving skills."
+"However, AI is characteristically integrated in this assessmentby instructing the learners to employ ChatGPT as one of the primary sources."
+"The learners aredirected to report the use of ChatGPT by including both the prompts and its responses, beforeexpressing their thoughts on AI-generated answers and their own concluding statement."
+"Thesethree characteristic components of the present techniques - the handling of ChatGPT through theprompts, comments on the AI-responses and the concluding thoughts - are evaluated to gaugethe learning."
+"The proposed assessment was assigned as a take-home group activity for a batch of seventyeight students, divided into thirteen groups."
+"Despite addressing the same questions, there wasno significant overlap in the answers."
+"Moreover, a wide range of approaches were adopted bythe groups in handling ChatGPT, which in-turn rendered different responses, ultimately drawingdistinct answers."
+"Besides preventing the undesired use of ChatGPT by explicitly integrating it,the proposed assessment seemingly helped the learners question the accuracy of its responses."
+This self-realised skepticism can be expected to curtail blatant malpractices involving ChatGPT1arXiv:2306.02096v1  
+[physics.ed-ph]  3 Jun 2023in the long run.
+Keywords:
+ChatGPT
+", Take-Home Exams, Evaluation, Assessment, Integrity, Malpractice1."
+IntroductionCommunicating with one another is an act we humans take for granted.
+"However, this featbecame rather effortless over millennia."
+"The ability to communicate comfortably and, for themost part, unambiguously is deemed as a milestone in human evolution [1]."
+"Parallels can bedrawn between the evolution of human communication and our interaction with machines, par-ticularly computing machines."
+"Over decades, for many, computers have been a sophisticatedmachine with apparently huge potential, which can only be exploited if communicated appro-priately."
+"Stated otherwise, this selfless and generous companion had a language problem."
+"There-fore, it was wholly the responsibility of the user to communicate properly with almost no attemptmade by the computer to make itself accessible [2] ."
+"Experts skilled in communicating with thecomputers, in appropriate language , made their features available to us by creating comprehen-sible interfaces [3]."
+These interfaces acted as our window of communication with the computers.
+"Though this advancement allowed significantly many to access the computer successfully, it waslargely made possible through human efforts with the machines seemingly reluctant to pick-upon our natural languages ."
+"Taking cognisance of this one-way struggle, and the immense opportu-nity that lay ahead, if the computers understood and responded to our natural languages, expertsbegan the attempts of incorporating intelligence in the machines [4]."
+"These attempts ultimatelyresulted in what we today refer to as the artificial intelligence [5].After few decades of its conception, the artificial intelligence is presently embodied in numer-ous fashions [6]."
+"Despite these various manifestations, and true to its history, the perception ofartificial intelligence is undeniably realised when a machine, after comprehending a statement inour natural language, offers a response that is both relevant and semantically coherent."
+One suchexpression of intelligence is demonstrably evident in a recent advancement called ChatGPT [7].∗P G Kubendran AmosEmail address:
+prince@nitt.edu
+"(P G Kubendran Amos)Preprint submitted to XXXXXX June 6, 2023Structured, rather plainly, as a chatbot, the ChatGPT is considerably more."
+"Early chatbots werelargely part of interfaces serving a particular purpose of making its content more accessible [8].Indicative of its time, these chatbots often rendered null response or concession statement, ifthe queries were not structured properly [9]."
+"Powered by a large language model adhering tothe Transformer architecture with 175 billion parameters, and trained on colossal data, ChatGPTstands exceedingly tall as an almost perfect expression of artificial intelligence."
+"Reflecting itscomplex underpinnings, the response offered by the ChatGPT to a given question ( or prompt)is generally indistinguishable from a human reaction."
+"This convincing performance of ChatGPThas even left many experts bemused [10].The continued realisation of the genius of ChatGPT, and its plethora of applications, is in-creasingly accompanied by the blaring noise of the alarm bells."
+"While thoroughly accepting itsextended utility, the alarming reports warn us of the undesired ill-effects of our advanced AI com-panion."
+"Though the concern over the plausible misuse of the ChatGPT stem from several sectors,including press, legal, public relations, medicine and defence [11, 12, 13, 14, 15], the noise fromone particular community has been deafening [16, 17]."
+"This community, primarily comprising ofeducators across different levels and varied streams, envisions an objectionable involvement ofChatGPT in education, and its assessments, in particular [18].The importance apportioned to teaching, in an educational system, is equally extended to theassessment or the evaluation of the learner’s grasp [19]."
+"The assessment, as the educational mea-surement, serves multiple purposes beginning with gauging the understanding of the learners ona specific concept."
+"Moreover, the employers use the grades resulting from the evaluation as one ofthe criterion for identifying suitable candidate [20]."
+"As a double-edged sword, a well-structuredassessment would also facilitate in ascertaining the success of a teaching technique [21]."
+A hugerange of schemes have been devised and adopted over different disciplined to assess the learn-ers [22].
+"Of these different assessment techniques, in addition to in-class evaluation, take-homeexams are broadly practised."
+"With its relaxed time limit, access to unlimited information, andthe absence of invigilators, the take-home exams absolutely contrast the in-class exams."
+"Despiteits characteristic features apparently rendering the term exam meaningless, the involvement oftake-home evaluation is convincingly justified."
+"An in-class exam, owing to its inherent restric-3tions, primarily tests the information-retrieval capability of the learner."
+"Given these proctoredassessments ensure ethical practices, they also largely overlook other aspects of learning includ-ing understanding, applying, analysing, evaluating and creating, which constitute the higherlevels in Bloom’s hierarchical taxonomy [23]."
+"On the other hand, through appropriate questions,in take-home exams, a learner is guided to define a problem, analyse it, hypothesise, validateand conclude."
+"Furthermore, the extended time limits in take-home assignments makes room toaccommodate almost the entire syllabus [24].The foundation of the take-home exams, that involves combing through the vast pieces ofinformation, scattered over the internet and books, to formulate a single coherent response toa question, is substantially weakened by a superchatbot , like ChatGPT, capable of covering allthese key facets, and more, in a matter of seconds."
+This palpable threat to a decades-old as-sessment technique is central to the alarm raised by the educators against ChatGPT and othersimilar superchatbots.
+"In this work, besides compiling and categorising possible solutions, anAI-integrated assessment is proposed as way of safeguarding the foundation and integrity of thetake-home exams."
+"Moreover, the fascinating outcome that emerged from the trial run of thisevaluation technique is discussed.2."
+Overview of plausible solutions2.1.
+"Threat is realIn spite of the complex under-structure, its appearance and a visceral realisation of it beingsolely a reactionary tool, might delude us into thinking the potency of ChatGPT can be bested byquestions demanding critical thinking and problem solving."
+"Better yet, instructing the learnersto frame their own problem statement and offer a coherent answer appears to render the super-chatbots unnecessary."
+"However, a recent study posing critical-thinking questions, and separatelyprompting to generate complex problems and its corresponding answers, in topics across fourdisciplines (Machine Learning, Marketing, History and Education), unravelled that the responseof ChatGPT is impressive and quite indistinguishable from an efficient learner [25]."
+"Furthermore,this work reports ChatGPT’s"
+"responses being relevant, clear, accurate, precise, in-depth, logical4persuasive and original."
+"Besides attesting the potency of ChatGPT, this study emphasises theurgency for exploring solutions to avoid or detect the undesired intrusion of superchatbots intake-home exams.2.2."
+"Self-redeeming optionsFrom their preliminary considerations, experts rendered their recommendations to detect theunwelcomed involvement of ChatGPT."
+"These included1.Factual inconsistencies : The intelligence of ChatGPT is primarily a reflection of its train-ing over vast, largely online, data."
+"This training, though ensures semantically coherent re-sponses, the factual claims are not always reliable [26]."
+"Therefore, factual inconsistenciesacross an answer or a response might indicate the extensive involvement of ChatGPT.2.Language analysis and plagiarism tools : Sophisticated AI-based language analysis toolscan be developed and employed to realise the pattern in responses generated by ChatGPTand other superchatbots."
+Such tools would quantitatively detect the extent of ChatGPT’sinvolvement in a content generating task.
+"Even though such language analysing tool isyet to be developed,"
+GPT-2 Output Detector is claimed to adequately detect the contentemerging from ChatGPT prompts [27].
+"Moreover, existing plagiarism detection tools canbe extended to uncover the undesired role of ChatGPT in take-home exams3.Augmenting discussion : Integrity in the take-come assessment can be secured with theinclusion of a interpersonal discussion or a presentation, besides the submission of theanswers."
+Ease with which the learner is able to translate the written answers to a discussionrelates to the originality of the work.
+"Interestingly, although not verbatim, the above suggestions to avoid or detect the extensiveinvolvement of ChatGPT and other superchatbots was rendered by ChatGPT itself [28]."
+"Whenconscientiously prompted about the solutions to its ill-effects on education, these and severalother seemingly plausible options are offered by ChatGPT."
+"Correspondingly, the above recom-mendations are categorised as self-redeeming options of ChatGPT.52.3."
+"Solutions of gapsWays to detect the interference of ChatGPT, in the previous section, are largely based on thecharacteristic features of its outcomes."
+"The following techniques, on the other hand, limits theusage of ChatGPT by focusing on its general structure and minutiae of the underlying algorithm."
+"In its technical form, ChatGPT essentially recognises the pattern in the usage of words innatural languages, and constructs a coherent conversation by converting these words into tokens(number)."
+"When these token are expressed in a specific series, reflective of the pattern gleanedfrom a language, it essentially translates to a coherent sentence [29]."
+This mechanism is ratherreversed by ChatGPT to comprehend a given prompt.
+Taking cognisance of the inner-workings the following approaches can be adopted to restricttheir involvement.1.Incorporating Images :
+"Owing to their fundamental framework, ChatGPT and similarsuperchatbots are essentially a reactionary aide that exclusively respond to verbal prompts."
+"Therefore, a take-home assessment structured a around set of distinct images would renderthe superchatbots unusable.2.Evasive prompts : The huge corpus of information that constitute the training data forChatGPT primarily includes the conventional use of language."
+"Therefore, phrases a ques-tion in an unconventional semantic, as often observed in riddles and poems, introduces amisconception in the understanding of ChatGPT, thereby compromising the accuracy ofits responses [30]."
+"Questions can be phrased in these forms, which seemingly are compre-hensible to humans, but evade the understanding of the superchatbots."
+The prompts withunconventional language schema is shown is generate inaccurate responses from Chat-GPT.
+"Besides unconventional use of language, it has also been demonstrated that ChatGPTexhibits a weak comprehension of spatial positions and temporal series of events [31].Questions involving these features is prone to yield inaccurate solutions from ChatGPTwhich can be exploited while framing the take-home exam."
+"Though the aforementioned techniques render the ChatGPT unusable and its response inac-curate, these are categorised as solutions of gaps, in that, having realised these limitations the6subsequent advancements in superchatbots will largely be focused on addressing them."
+"In otherwords, the efficacy of exploiting the inherent restriction of the models supporting the ChatGPTis swiftly declining and might soon be ineffective.3."
+AI-integrated take-home
+"examEven though the previous section is far from an exhaustive review of the techniques involv-ing ChatGPT and take-home exams, it essentially reflects the prevalent sentiment among theeducators."
+"Stated otherwise, the common consensus, as it stands, is that the only way ChatGPTand other superchatbots can be associated with a taken-home assessment is if their roles areavoided and/or detected to conserve integrity."
+"This work, on the other hand, describes an ap-proach for consciously involving ChatGPT, or other similar superchatbots, in take-home examswithout compromising the integrity."
+"In fact, a technique of involving ChatGPT in evaluation has already been suggested by Chat-GPT itself."
+"In this assessment technique, ChatGPT can be employed to devise personalised assess-ment for individuals in the forms of an online interactive assistants, games, and other dedicatedevaluating tools."
+"Similar thoughts have also been shared by the known online educator Sal Kahn,the creator of Kahn Academy [32]."
+"Though ChatGPT makes the development of such chatbots,which can be deployed for evaluating learners on specific topics, the instructor is required topossess some level of fluency in computer languages."
+"The proposed technique, in contrast, isfounded on the traditional scheme of take-home exam.3.1."
+"Theoretical frameworkFollowing the conventional approach, in the AI-integrated take-home assessment, questionsfocusing on the higher strata of Bloom’s taxonomy, that examines understanding, application,analysis, evaluation and creation, is posed to the learners."
+"However, instead of just necessitatinga well-thought-out coherent answers, the learners are instructed to use ChatGPT as a mandatory,yet not exclusive, source."
+"It is advised to present the approach they adopted in utilising ChatGPT,by including all the prompts and responses, in its raw form, as a screenshot or equivalent."
+"Finally,besides their concluding statement, the learners are required to comment on the responses of7Figure 1: A piece of instruction included along with the questions in the AI-integrated take-home exam assigned tothe learners."
+(This instruction was further expanded during the conventional classes to weed out any confusion.)ChatGPT.
+"Simply put, the AI-integrated take-home exam by explicitly involving ChatGPT, as aprimary source, requires the learners to gauge its responses, in addition to rendering their answerin view of this and other sources."
+"By carefully considering the ChatGPT prompts, the commentson its responses and the finally, the concluding statement, suitable assessment can be made ofthe higher levels of Bloom’s taxonomy."
+"Though the assessment-question can directly be posed to ChatGPT, a more convincing answeris generally attained when prompted further, particularly when the response demands criticalthinking and problem solving skills."
+"The subsequent prompts, along with the original at time,aide the evaluator in gauging the understanding of the learner."
+"Put differently, without sufficientunderstanding of the topic and analysis of the response offered to the foundational prompt, thelearner would not be able to frame subsequent question to ChatGPT."
+"Consequently, the promptswill reflect the understanding and analysis of the learners."
+"The comment on the responses of theChatGPT, which is a characteristic aspect of the proposed assessment scheme, necessitates in-depth evaluation of its content, besides analysis."
+"Finally, the application of the response offeredby ChatGPT, along with other sources, lends itself to the creation of the concluding statement oranswer to the assigned question."
+"By encompassing all the levels of Bloom’s taxonomy, presenttake-home exam stands true to the convention.3.2."
+PracticeIn addition to formulating an AI-integrated take-home exam
+", that seemingly ensures integritydespite the access to ChatGPT, and other superchatbots, its viability is ascertained in this work8by assigning it to a batch of learners.3.2.1."
+"MethodologyThe present assessment approach, characterised by the explicit involvement of ChatGPT"
+", wasthe pattern adopted for the take-home assignment of the undergraduate students in their secondyear of the four years technical education program."
+"These students, seventy eight in total, arepursuing bachelor’s degree in the Metallurgical and Materials Engineering at National Instituteof Technology Tiruchirappalli (NITT)."
+"Located in southern part of India, according to the recentofficial survey, the NITT ranks ninth among the technical education institutes across the nation."
+"The assessment comprised of two questions pertaining to a course on Mechanical Behaviourand Testing of Materials, a core course ( de rigueur ) of the discipline."
+A section of the instructionsas shared with the students are shown in Fig.
+1.
+"Given its uniqueness and untested nature, theassessment was structured as a group activity."
+"Correspondingly, the students were instructedto form groups, on their own, with each comprising of six members."
+For the resulting thirteengroups same two questions were assigned and a deadline was set after fifteen days for the sub-mission of the answer.
+(The exact questions are included in the appendix)3.2.2.
+Outcomes and discussionA cursory view of the responses from the thirteen groups revealed no noticeable similarities.
+"Stated otherwise, the required involvement of ChatGPT seemingly improved the integrity of thetake-home assessment, considering same questions were assigned to every group."
+This absenceof word-to-word mirroring of answers across the groups could be attributed to the curiosity ofthe learners to explore the newly launched AI tool in a technical context.
+The varied answersare essentially indicative of the different approaches adopted by the groups is utilising ChatGPT.Though
+"no two answers overlap completely, a similarity can be drawn in the ways ChatGPT wasemployed."
+"This similarity does not suggest any malpractice, in its conventional sense."
+"But, onthe other hand, the similarities in the approaches can be exploited to succinctly categorise anddescribe the ways ChatGPT was handled."
+The approaches adopted by the groups in involving ChatGPT can be broadly categorised intothe following:9Figure 2:
+"Different approaches adopted by the group in integrating ChatGPT, as instructed, to their take-home exam."
+"Prompts 1a to 1i, in brute force approach, indicate repetitive use of the same question."
+"Though both probing andbrute force used several prompts, the number of distinct questions posed by the former is greater"
+(n >m).1.Elementary : Couple of groups restricted the use of ChatGPT to once for each question.
+"Their prompt was literally the question posed in the assignment, without any change."
+TheChatGPT is not prompted any further for an expansion or clarification.
+"Despite the singleuse, following the instructions, the groups assessed the response of ChatGPT and madea concluding statement."
+"A group, which did not explicitly distinguish the response fromChatGPT, is also included in this category."
+"Except for these, no other groups employedChatGPT only once in answering the questions.2.Brute-force : Adopted primarily by one group, this approach exposed ChatGPT to thesame prompt over and over (close to seven times), with each generating a different re-sponse."
+ChatGPT was subsequently tasked to find the most appropriate answer from theaforementioned responses.
+"Upon clarifying few aspects of this answer through suitableprompts, the group proceeded to comment on the responses of ChatGPT, and offered itsown concluding statement.3.Probing : Similar to brute-forcing, this approach extensively involved ChatGPT throughnumerous prompt."
+"However, characteristically, every time different question was posed to10the superchatbot."
+Either the prompts were re-phrased to make it more particular or to pressChatGPT for additional clarification to the answer rendered.
+"The prompts following theoriginal one reflected thoughtful consideration of the response offered by ChatGPT, in viewof understanding gathered from other sources."
+"By framing the questions appropriately,ChatGPT was directed and probed, in this approach, till a convincing response was made."
+Fig.
+2 graphically represents the different approaches adopted by the groups in integrating Chat-GPT.Majority of the group adopted the probing approach to effectively use ChatGPT in their take-home assignment.
+"Interestingly, one such group masked ChatGPT as DAN (‘Do Anything Now’ )assuming it would enhance the response to their questions."
+The distribution of the different waysChatGPT was employed in the present practice is graphically represented in Fig.
+"3.As instructed, in addition to presenting their record of utilising ChatGPT, almost all groupstechnically assessed the content of its responses and discussed them adequately."
+"While somegroups chose to offer a consolidated evaluation of all ChatGPT’s answers, each response wasindividually assessed by others."
+The concluding statement of each group largely summarisedthe technical assessment of the contribution of ChatGPT based on their understanding of thepotential solution stemming from the lectures and/or other sources.4.
+"ConclusionTeaching and evaluating techniques, in education, have always been evolving with time."
+"Given the progressive changes in these techniques are induced by several factor, the correspond-ing evolution has not always been smooth and gradual."
+"Sometimes, an abrupt change in theteaching and evaluating approach is rather forced."
+"The exclusive use of online classrooms andthe consequent change in the teaching and evaluation, during the recent pandemic, is a primeexample of the abrupt change to the existing techniques."
+"Though this shift to online classes wastransitory, it opened-up a new avenue for distant education."
+"The launch of ChatGPT, and othersimilar superchatbots, challenge some of the conventional evaluation techniques and demandrather an abrupt change for their effective continuance."
+"The revisions made to the assessment11Figure 3: A quantative distribution of the groups adopting varied approaches indicating major adherence probingtechnique.techniques, in response to these advancements in AI, unlike pandemic, would not be transitorybut, on the other hand, a landmark in the adaptive changes."
+"In-keeping with the intelligent re-sources, which are accessible to the learners, an AI-integrated take-home assessment is proposed."
+"Moreover, its practicality is demonstrated, in this work, by discussing the outcomes of the pro-posed evaluation technique when assigned to a batch of learners."
+"The theory and practice of thepresent AI-integrated take-home exam indicates that, despite the access to ChatGPT and othersuperchatbots, neither the quality of the assessment nor the integrity is compromised."
+"Interestingly, the concluding statement of one of the groups included:‘. ."
+.we
+can state that the ChatGPT’s accuracy is based on the applicability of the input data it (sic)has been provided.
+"Furthermore, they might not always offer information that is accurate or trust-worthy."
+"By interpreting this, we may say that while the answers provided by the ChatGPT above aremostly right, they are not entirely accurate. ’"
+"wherein a generalised observation is reported, after an inquisitive treatment of ChatGPT, be-sides commenting on the subjective technical accuracy of the responses."
+"Accordingly, thoughChatGPT offers a seemingly coherent response, it cannot be accepted and reported, as it is, with-out any human assessment or intervention."
+"Though not expected, but encouragingly, similarsentiments were expressed by several other groups in this study."
+These generalised claims that12expresses
+a reluctance in accepting ChatGPT as an authoritative source is noticeable becausesuch skepticism towards the superchatbots would implicitly avoid its involvement in any mal-practices.
+"In other words, the present assessment scheme, in addition to ensuring integrity oftake-home exams, seems to establish an understanding in learners to view the response of Chat-GPT critically, and not be content with it."
+"When the beneficiaries themselves are not convincedof a tool, its undesired usage in the midst of other established tools is rather unreasonable."
+"Ultimately, the progress in artificial intelligence poses a palpable challenge to education, par-ticularly to the existing assessment techniques."
+"However, these challenges are not insurmount-able."
+"As demonstrated in the present work, the advancements can be integrated to the existingassessment techniques, in a straightforward manner, to preclude any ill-effects, all while keeping-up the technological progress."
+"Furthermore, such evaluations, through the first hand experience,would keep the learners well-informed of both benefits and pitfalls of the state-of-the-art tech-nologies."
+"The present study conclusively indicates that the alarms reasonably raised by the educators,envisioning the role of ChatGPT and other superchatbots, can seemingly be settled with someinnovation and critical thinking, which is expected of a learner."
+"For we, the creators, unlessconceded, would always stand tall over our creations."
+Data AvailabilityAll
+the data pertinent to the reported study would be made available upon request and afterconsideration of the reason.

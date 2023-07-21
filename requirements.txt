@@ -1,0 +1,4 @@
+Python >=3.8.13
+pandas= 1.5.3
+PyPDF2=3.0.1
+requests=2.31.0
